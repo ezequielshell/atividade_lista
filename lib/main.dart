@@ -58,6 +58,19 @@ class MyApp extends StatelessWidget {
         name: 'The Legend of Zelda',
         genre: 'Adventure',
         imagePath: 'assets/zelda.png'),
+
+    Game(
+        name: 'Assassin\'s Creed Odyssey',
+        genre: 'Action',
+        imagePath: 'assets/odyssey.png'),
+    Game(
+        name: 'Red Dead Redemption 2',
+        genre: 'Action',
+        imagePath: 'assets/red.jpg'),
+    Game(name: 'Cyberpunk 2077', genre: 'RPG', imagePath: 'assets/cyber.png'),
+    Game(name: 'Dark Souls III', genre: 'Action', imagePath: 'assets/dark.png'),
+    // Adicione mais jogos conforme necessário
+
     // Adicione mais jogos conforme necessário
   ];
 
